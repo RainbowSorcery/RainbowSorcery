@@ -1,6 +1,6 @@
-<h2 align="center">Hey 👋, I'm Dreamer. </h2>
+<h2 align="center">你好, 我是 Dreamer. </h2>
 <br/>
-<h2>Abount Me:</h2>
-I'm a full-stack developer, but I had to learn Java to make a living. i like to study the underlying computer, but it takes me a long time to learn because of stupidity. talent is really important. I love computer programming and find the computer world really interesting. When I first created a program form file in E Program, the excitement kept me going. I like to use c/c++ programming language. I am a self-taught and poorly talented developer.Dream one day to make an operating system of their own．
+<h2>关于我:</h2>
+我是一个全栈开发人员,因为要找工作,所以才学习的Java,我并不怎么喜欢Java开发,相反,我对计算机底层原理更感兴趣一些, 因为天赋较差的原因, 导致学习速度较慢, 虽然是这样, 但是我还喜欢学习计算机, 我觉得计算机很有趣. 我学习的第一门变成易语言是语言, 我还记得当时我的第一个程序跑起来的那种兴奋感, 也是那种兴奋感督促我坚持了下来. 我喜欢c/c++, 喜欢计算机底层, 我希望总有一天能开发出属于自己的操作系统来.
 <br/>
 <br>
