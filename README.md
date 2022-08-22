@@ -6,3 +6,4 @@
 <h1 align="center">我会追逐梦想, forever!</h1>
 <br/>
 <br>
+<img src="![image](https://user-images.githubusercontent.com/32506044/185854188-b070a23c-0486-4541-9672-7e8ec4eb0ac0.png)" />
